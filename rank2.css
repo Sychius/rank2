@@ -1,5 +1,6 @@
-.SY {
+.S {
 	font-style: normal;
+	animation: b-r 5s linear infinite;
 	color: darkred;
 	text-shadow:
     	0 0 7px darkred,
@@ -10,7 +11,7 @@
     	0 0 92px darkred,
     	0 0 102px darkred,
     	0 0 151px darkred;
-	animation: b-r 5s linear infinite;
+	
 }
 @keyframes b-r {
 	0%, 50%, 100% {color: black}
