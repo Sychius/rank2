@@ -1,12 +1,12 @@
 .S {
 	font-style: normal;
 	animation: b-r 5s linear infinite;
-	color: darkred;
+	color: red;
 	text-shadow:
-    	0 0 7px red,
-    	0 0 10px red,
-    	0 0 21px red,
-    	0 0 42px red,
+    	0 0 7px darkred,
+    	0 0 10px darkred,
+    	0 0 21px darkred,
+    	0 0 42px darkred,
     	0 0 82px darkred,
     	0 0 92px darkred,
     	0 0 102px darkred,
