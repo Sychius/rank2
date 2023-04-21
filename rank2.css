@@ -1,6 +1,6 @@
 .S {
 	font-style: normal;
-	animation: b-r 5s linear infinite;
+	animation: bar 5s linear infinite;
 	color: red;
 	text-shadow:
     	0 0 7px darkred,
@@ -13,7 +13,7 @@
     	0 0 151px darkred;
 	
 }
-@keyframes b-r {
+@keyframes bar {
   0%, 10%, 100% {color: black}
   5%, 15%, 50% {color: red}
 }
